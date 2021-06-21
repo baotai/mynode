@@ -1,0 +1,2 @@
+# mynode
+user,role,permission
